@@ -1415,3 +1415,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.07-20.30.41:492][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.022739 secs
 [2023.10.07-20.30.41:539][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2023.10.07-20.32.33:788][810]LogDerivedDataCache: C:/Users/hadis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.029 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 505 files in 861 folders with total size 12 MiB.
+[2023.10.07-20.58.43:756][520]LogHttp: Warning: 000008631C60C300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2023.10.07-20.58.43:756][520]LogHttp: Warning: 000008631C60C300: libcurl info message cache 0 (Found bundle for host: 0x862cc160de0 [serially])
+[2023.10.07-20.58.43:756][520]LogHttp: Warning: 000008631C60C300: libcurl info message cache 1 (Re-using existing connection #1 with host datarouter.ol.epicgames.com)
+[2023.10.07-20.58.43:756][520]LogHttp: Warning: 000008631C60C300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.153.227.153) port 443 (#1))
+[2023.10.07-20.58.43:756][520]LogHttp: Warning: 000008631C60C300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.10.07-20.58.43:756][520]LogHttp: Warning: 000008631C60C300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2023.10.07-20.58.43:756][520]LogHttp: Warning: 000008631C60C300: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.10.07-20.58.43:756][520]LogHttp: Warning: 000008631C60C300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.10.07-20.58.43:756][520]LogHttp: Warning: 000008631C60C300: libcurl info message cache 7 (Closing connection 1)
+[2023.10.07-20.58.43:756][520]LogHttp: Warning: 000008631C60C300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2023.10.07-20.58.43:756][520]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B50424F88-4FF1-EAB9-07AA-2F88170B71B8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=f7acadfc4ebe8a433765b8bd248841ec%7C780735a0db3143caaae376e26d524a64%7C87f18b50-4ed2-4b5d-9f18-b9a3d8ace086&AppEnvironment=datacollector-binary&UploadType=eteventstream
