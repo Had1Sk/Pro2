@@ -1292,3 +1292,13 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2023.10.07-21.43.13:719][726]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.20% of total time (compiled  128 times, average 0.70 sec, max 1.51 sec, min 0.22 sec)
 [2023.10.07-21.43.13:719][726]LogShaderCompilers: Display: ================================================
 [2023.10.07-21.43.24:835][501]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.10.07-21.47.46:037][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.10.07-21.47.46:165][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../Unity5/hema/Pro2/MyProject/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.10.07-21.47.46:252][761]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.013116 seconds
+[2023.10.07-21.47.46:296][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Temp/Untitled_1_Auto1
+[2023.10.07-21.47.46:296][761]LogSavePackage: Moving '../../../../../Unity5/hema/Pro2/MyProject/Saved/Untitled_1_Auto103C39FCA4AD349142948C08B08524AD0.tmp' to '../../../../../Unity5/hema/Pro2/MyProject/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2023.10.07-21.47.46:443][761]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Unity5/hema/Pro2/MyProject/Saved/Autosaves/Temp/Untitled_1_Auto1.umap is in the /Temp path, will not scan.
+[2023.10.07-21.47.46:443][761]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Temp/Untitled_1_Auto1 is in the /Temp path, will not scan.
+[2023.10.07-21.47.46:443][761]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Temp/Untitled_1_Auto1 is in the /Temp path, will not scan.
+[2023.10.07-21.47.46:444][761]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.440
+[2023.10.07-21.47.46:444][761]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.440
